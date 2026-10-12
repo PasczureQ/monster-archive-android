@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Monster Archive</string>
+    <string name="title_activity_main">Monster Archive</string>
+    <string name="package_name">com.monsterarchive.endless</string>
+    <string name="custom_url_scheme">com.monsterarchive.endless</string>
+</resources>
